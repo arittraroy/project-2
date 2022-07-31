@@ -1,0 +1,33 @@
+.container{
+    margin-bottom: 60px;
+}
+
+.nav{
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+
+.bg-pink{
+    background-color: 
+    #FEEAE9;
+    border-radius: 10px;
+}
+
+.dark-pink{
+color: #FF136F;
+margin-bottom: 15px;
+}
+
+
+.carousel-btn{
+    text-decoration: none;
+    color: white;
+   background-image: linear-gradient(to bottom, #ff589b, #ff136f);
+    border-radius: 10px;
+    padding: 8px 12px;
+}
+
+.carousel-btn:hover{
+    color: rgb(207, 207, 207);
+}
