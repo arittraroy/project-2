@@ -84,7 +84,8 @@ border-radius: 10px;
 
 
 .input-h{
-    padding: 6px 16px;
+    max-width: 180px;
+    padding: 6px 10px;
     border: 1px solid #FF136F;
     border-radius: 10px 0px 0px 10px;
 }
